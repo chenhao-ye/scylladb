@@ -2,6 +2,7 @@
 	path = seastar
 	url = ../scylla-seastar
 	ignore = dirty
+	branch = storeforge
 [submodule "swagger-ui"]
 	path = swagger-ui
 	url = https://github.com/scylladb/scylla-swagger-ui.git
